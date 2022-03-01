@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The servant doing, and the Lord blessing. A sermon preached at the funeral of the right honorable Richard Pepys, Lord Chief Justice of the upper bench in Ireland. Who deceased 2. Ianuary anno 1658. By Edward Worth D.D.</title>
+            <author>Worth, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96940</idno>
+            <idno type="STC">Wing W3619</idno>
+            <idno type="STC">Thomason E974_3</idno>
+            <idno type="STC">ESTC R207667</idno>
+            <idno type="EEBO-CITATION">99866705</idno>
+            <idno type="PROQUEST">99866705</idno>
+            <idno type="VID">118989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E974[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The servant doing, and the Lord blessing. A sermon preached at the funeral of the right honorable Richard Pepys, Lord Chief Justice of the upper bench in Ireland. Who deceased 2. Ianuary anno 1658. By Edward Worth D.D.</title>
+                  <author>Worth, Edward.</author>
+               </titleStmt>
+               <extent>[6], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118989:1" rendition="simple:additions"/>
+            <p>The Servant doing, AND THE Lord Bleſſing. A SERMON preached at the Funeral of the Right honorable <hi>Richard Pepys,</hi> Lord Chief Juſtice of the upper Bench in IRELAND. Who deceaſed 2. <hi>Ianuary Anno</hi> 1658. By <hi>Edward Worth</hi> D. D.</p>
+            <q>
+               <bibl>Pſalm 82. 6, 7.</bibl>
+               <p>
+                  <hi>I have ſaid, Ye are Gods,—But ye ſhall dy like Men,</hi> &amp;c.</p>
+            </q>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>William Bladen,</hi> Anno Dom. 1659.</p>
+            <pb facs="tcp:118989:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118989:2"/>
+            <head>To the Right Honorable <hi>JOHN TH<g ref="char:V">Ʋ</g>RLOE</hi> Esq; Principal Secretary of State to his Highneſs the Lord Protector of <hi>England, Scotland</hi> &amp; <hi>Ireland,</hi> and the Dominions there<g ref="char:EOLhyphen"/>to belonging.</head>
+            <opener>
+               <salute>May it pleaſe your Honor,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Vſtom hath made it uſual (if not neceſſary) on the new year, to offer ſome ſignal of duty. No<g ref="char:EOLhyphen"/>thing of mine is worthy acce<g ref="char:EOLhyphen"/>ptance: but the engagement of Chriſt to reward wiſe and faithfull ſervice, is, though tranſcrib'd by a hand not onely vveak but defective. On this account (as an ac<g ref="char:EOLhyphen"/>knovvledgment of many debts vvherein I ſtand bound to your Honor) I preſume on this Dedication, or rather Oblation.</p>
+            <p>Sir, This Sermon vvas a child of obedience to his Excellency's and the Council's Order; at its firſt birth entertain'd like children, vvith regard or not, as love is borne or not borne to the parents; and novv layd open to pub<g ref="char:EOLhyphen"/>lick vievv, becauſe the face gives clearer evi<g ref="char:EOLhyphen"/>dence than the voice, and the eye a faithfuller verdict, than the ear. Though its ſubject
+<pb facs="tcp:118989:3"/> matter needs not to ſeek a Patron (for <hi>Magna eſt Veritas;</hi> vvho can do ought (eventually) a<g ref="char:EOLhyphen"/>gainſt the Truth?) yet the author having taſted the bitterneſs of perſecution by both the ex<g ref="char:EOLhyphen"/>treams, and obſerving the ſame Spirit (though in new cloaths) attempting to act ſtill; pre<g ref="char:EOLhyphen"/>ſumes to publiſh it, (which is now charged as his great crime) and to preſent it to your Honor, whom the World knovvs too juſt to acquit the nocent, and too charitable to con<g ref="char:EOLhyphen"/>demn the innocent; and whom the Author confeſſeth his no leſs good than great friend, (pardon the expreſſion) and therefore is glad of any occaſion ſolemnly to profeſs himſelf,</p>
+            <closer>
+               <salute>(Right Honorable!)</salute>
+               <signed>Your Honors in the beſt duty, as obliged, ſo devoted ſervant, Edw. Worth.</signed>
+            </closer>
+            <pb facs="tcp:118989:3"/>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:118989:4"/>
+            <p>J<g ref="char:V">Ʋ</g>ſtitia manet in aeternum, quidni &amp; Juſtitiae vindex? Tanta etenim fuit <hi>Pe<g ref="char:EOLhyphen"/>pys</hi> probitas, ea<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> apud bonos aeſtimatio, ut vix opus erat acrioris eloquentiae myr<g ref="char:EOLhyphen"/>rhâ famam ejus condire: <hi>Worthius</hi> tamen alter <hi>Arimathaeus,</hi> non ſolùm purioris eloquii ſindone beatum Antiſti<g ref="char:EOLhyphen"/>tem volvebat, ſed vel è ſuggeſto detonans ſpirabat balſamum &amp; aromata; Quae ut difflentur latiùs, ſciatur<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quàm amabilis fuerat <hi>Pepys,</hi> quàm amavit eum <hi>Wor<g ref="char:EOLhyphen"/>thius; Imprimatur</hi> Funebris Oratio, ad exequias Clariſsimi defuncti habita, utpote quae nihil Fidei Orthodoxae, bonis moribus, aut Imperio nunc florenti ad<g ref="char:EOLhyphen"/>verſum teneat.</p>
+            <closer>
+               <signed>Guil. Petty Cler. Concilii.</signed>
+               <dateline>
+                  <hi>Datum ex Camerâ Concilii,</hi> 
+                  <date>Febr. 21. 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118989:4"/>
+            <epigraph>
+               <bibl>Matth. 24. 46.</bibl>
+               <q>Bleſſed is that Servant, whom his Lord when he cometh ſhall find ſo doing.</q>
+            </epigraph>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Coherence.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Text and the Gloſs, the Word and the Work of God <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> in this inſtance ſounds a Pa<g ref="char:EOLhyphen"/>rade: <hi>v.</hi> 44 Be ye ready. Calls to the Watch, <hi>v.</hi> 42. <hi>VVatch.</hi> This Watch conſiſts in the exerciſed act of Chriſtian Wiſdom, over our <hi>ſelves,</hi> to our <hi>work,</hi> and for our <hi>end.</hi> The firſt is the <hi>Main-Guard,</hi> the other two, <hi>By-Guards.</hi> 1. we muſt watch over our <hi>ſelves.</hi> Firſt, Look to our <hi>Cinque Ports,</hi> at every <hi>ſenſe</hi> ſet a <hi>Centinel.</hi> Se<g ref="char:EOLhyphen"/>condly, Give the <hi>Allarm</hi> when the Enemy ap<g ref="char:EOLhyphen"/>pears even at a diſtance. Thirdly, Open freely to our <hi>friends,</hi> the <hi>motions</hi> of the good Spirit. Fourthly, Examine all <hi>comers,</hi> whence they are,
+<pb n="2" facs="tcp:118989:5"/> from <hi>God</hi> or the <hi>Devil?</hi> whether they go, to <hi>Heaven</hi> or <hi>Hell?</hi> and what is their buſineſs, <hi>Sin</hi> or <hi>Grace?</hi> 2. We muſt watch to our <hi>work,</hi> take heed how we hear, faſt, give alms, watch unto prayer with all perſeverance. This duty like <hi>bloud,</hi> ſhould run through every <hi>vein.</hi> 3. We muſt watch for our <hi>end,</hi> for the day of the <hi>Lord</hi>'s coming. In the <hi>Orders</hi> here given this laſt watch ſeems moſt eſpecially concerned, <hi>VVatch.</hi>
+               </p>
+               <p>But <hi>drowſie Man</hi> will not eaſily be brought <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> to this <hi>watch,</hi> or kept on it by <hi>ſenſe of duty;</hi> Chriſt therefore <hi>allarms</hi> us with expreſſes of <hi>danger.</hi> That day of the Lord is like the <hi>Ba<g ref="char:EOLhyphen"/>ſilisk,</hi> ſlain, if prevented; ſlaying, if it unſeen ſurprize us. <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>atch,</hi> therefore <hi>watch.</hi>
+               </p>
+               <p>This concluſive particle <hi>(therefore)</hi> referrs <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> to the premiſſes: wherein we find a large deſcription of the <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>orlds Funeral.</hi> Thoſe of the <hi>highest rank,</hi> are firſt in <hi>Mourning, v.</hi> 29. <hi>The Sun ſhall be darkened, the Moon ſhall not give her light, the stars ſhall fall, and the powers of Heaven ſhall be ſhaken.</hi>
+               </p>
+               <p>
+                  <hi>The Sun ſhall be darkened. That eye of the world</hi> (as one ſays) <hi>ſhall as it were weep it ſelf blind. The Moon ſhall not give its light. A new Moon,</hi> and a <hi>ſtrange Change,</hi> not recovering but loſing light. <hi>The ſtars ſhall fall.</hi> God ſhall (as
+<pb n="3" facs="tcp:118989:5"/> it were) caſt thoſe <hi>ſpent candles</hi> out of their <hi>ſockets.</hi> In a word, the <hi>Ecclipſe</hi> ſhall be uni<g ref="char:EOLhyphen"/>verſal, even <hi>sky-color dy'd ſable,</hi> and therefore all things <hi>covered</hi> with <hi>blacks.</hi> The ſadneſs of which covering will be ſo much the more ſad and dreadfull, by how much the day of that change, and time of that day is more uncertain, more ſudden, and leſs expected. The uncer<g ref="char:EOLhyphen"/>tainty is declared <hi>v.</hi> 36. <hi>Of that day and hour knoweth no man, no not the Angels of heaven, but my Father onely.</hi> The ſuddeneſs and inexpe<g ref="char:EOLhyphen"/>ctancie, <hi>v.</hi> 37, 38, &amp;c. <hi>As it was in the days of Noah, ſo ſhall the coming of the Son of Man be.</hi> And thoſe aggravations which thus lead the <hi>
+                     <g ref="char:V">Ʋ</g>an</hi> to this <hi>VVatch,</hi> do in like manner bring up the <hi>Rear.</hi> The day of the Lord, and the time of that day is uncertain, <hi>v.</hi> 42. Sudden and unexpected, <hi>v.</hi> 44.</p>
+               <p>Firſt, the time of that day is uncertain, v. <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> 42. <hi>Ye know not the hour when your Lord cometh.</hi> The Apoſtles were the Lord's <hi>Embaſsadours</hi> 
+                  <note place="margin">2 Cor. 1. 20.</note> 
+                  <hi>extraordinary</hi> on Earth. The Angels are the <hi>Lord's Officers of State</hi> in Heaven. Chriſt is the Lord's <hi>Lievtenant</hi> in Heaven and Earth, <hi>all power is committed to him:</hi> yet the Apoſtles, <note place="margin">Matt. 28. 18.</note> the Angels, Chriſt himſelf (as man) knew not the time of that day. And is it not the higheſt preſumption to arrogate to our ſelves
+<pb n="4" facs="tcp:118989:6"/> the knowledge of that which the Apoſtles, the Angels, Chriſt (as man) knew not? is not this next to that of the old Serpent to our firſt Parents, <hi>Ye ſhall be as Gods knowing?</hi> God <note place="margin">3. Gen. 5.</note> hath made us his <hi>Stewards</hi> not his <hi>Secretaries,</hi> he therefore that pries into his <hi>Cabinet</hi> will prove <hi>more bold then welcome.</hi> What the <hi>good God</hi> hath not made known, the <hi>wiſe God</hi> knows is not good for us to know. So in this inſtance, knew men that day afarr off, 'twould make them delay the <hi>work of Repent<g ref="char:EOLhyphen"/>ance,</hi> knew they it nigh at hand, 'twould make them diſtruſt the <hi>truth of Repentance,</hi> leaſt ariſing from fear not love. Knew they it afar off, 'twould tempt to <hi>preſumption,</hi> knew they it nigh at hand 'twould tempt to <hi>deject<g ref="char:EOLhyphen"/>edneſs,</hi> both wayes tend to deſtroy <hi>Society</hi> and hinder <hi>duty. Latet ultimus dies ut obſerventur o<g ref="char:EOLhyphen"/>mnes,</hi> the laſt day is not known that everyday might be obſerved. An accuſ'd Malefactor is not ſollicitous concerning the hour wherein the Iudge comes to Town, but concerning what friends he ſhall engage, what deſence he ſhall make at his trial.</p>
+               <p>Thus it concerns us not to know the times and the ſeaſons which the Father hath put <note place="margin">Act. 1. 7.</note> in his own power to ſecure Chriſt as our <hi>Ad<g ref="char:EOLhyphen"/>vocate,</hi> his merits as our <hi>Plea,</hi> to watch that
+<pb n="5" facs="tcp:118989:6"/> our <hi>Oyle</hi> be not to <hi>Buy</hi> when it ſhould be to <note place="margin">Mat. 25.</note> 
+                  <hi>Burn.</hi> It was a good anſwer of a ſage Father <hi>that a day before death was time enough to Re<g ref="char:EOLhyphen"/>pent,</hi> but a better queſtion on ſecond thoughts of the youg gallant, <hi>Oh</hi> Sir <hi>how ſhall I know when I ſhall die?</hi> Nay, ſaid the Father, <hi>that may be preſently. Hoiſe</hi> therefore your <hi>Sails</hi> while the <hi>wind ſerves: <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>atch, for ye know not the hour wherein the Lord cometh.</hi>
+               </p>
+               <p>Secondly, the time of that day will be ſud<g ref="char:EOLhyphen"/>dain, <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> it comes ere 'tis thought on, v. 44. <hi>in ſuch an hour as you think not, the ſon of man com<g ref="char:EOLhyphen"/>eth.</hi> We are not <hi>Freeholders</hi> in theſe houſes of <hi>Clay,</hi> but <hi>Tennants at will,</hi> at beſt <hi>Tennants for Life.</hi> Three Lives are no long term, our's is ſhorter, it's but for one Life, and what a <hi>Bubble,</hi> what a <hi>Puff,</hi> what a <hi>VVink</hi> is that Life!</p>
+               <q>
+                  <l>—Plos, Fabula, Foenum,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>mbra, cinis, punctum, vox, ſonus, aura, nihil.</l>
+               </q>
+               <p>
+                  <hi>A thouſand years are to God but as one day,</hi> 
+                  <note place="margin">2. Pet. 3. 8.</note> and the longeſt liv'd <hi>[Methuſelah]</hi> reached <note place="margin">Gen. 5. 27</note> not the length of this day. Immediately af<g ref="char:EOLhyphen"/>ter the Floud this day was <hi>contracted</hi> one half. <hi>Eber</hi> liv'd longeſt yet came ſhort of Five hun<g ref="char:EOLhyphen"/>dred. <note place="margin">Gen. 10. 16. 17. <hi>v.</hi> 18. 19.</note> In the next age another half, <hi>Peleg</hi> reach'd not Three hundred. <hi>Iacob</hi> not two. <note place="margin">Gen. 47. 9.</note> And in <hi>Moſes</hi> time the <hi>cloth ſhrunke</hi> up to ſe<g ref="char:EOLhyphen"/>venty
+<pb n="6" facs="tcp:118989:7"/> years, and what was more then this was but a <hi>courſe liſt, Labor and Sorrow,</hi> Pſal. 90. 18. VVe compute the life of a man to be <hi>ſeven years,</hi> and ſeven years (all men will grant) are not many: but ſuppoſe we did live many years, yet many years are no long life, for though we are apt to misjudge them <hi>long before hand,</hi> becauſe we deſire to live them, yet when once they are <hi>paſt and tranſacted</hi> how ſhort do we find them. <hi>Salomon</hi> aſſignes a time to be born and a time to die, none to <note place="margin">Eccl. 3. 2.</note> live; as if our <hi>VVinding-ſheets</hi> were laid in <hi>our Cradles,</hi> or our <hi>Cradles rock'd in our graves.</hi>
+               </p>
+               <q>
+                  <l>Scilicet ex illâ quâ primum naſcimur horâ,</l>
+                  <l>Prorepunt juncto vitaque morſque pede.</l>
+               </q>
+               <p>Certainly theſe <hi>Houſes</hi> of <hi>Clay</hi> cannot be our <hi>Manſions</hi> both on a <hi>legal</hi> and <hi>phyſical</hi> ac<g ref="char:EOLhyphen"/>compt: on the former, becauſe by Sin they are <hi>forfeited</hi> into the Lords hands, thus death enters by Sin, <hi>per removens prohibens.</hi> On the latter, becauſe they are <hi>Earthly Taberna<g ref="char:EOLhyphen"/>cles,</hi> 
+                  <note place="margin">2. Cor. 5. 1.</note> 22 Ier. 29. Oh <hi>Earth, Earth, Earth,</hi> mark thrice earth, <hi>made of Earth, maintain'd by Earth,</hi> and anon <hi>turned into Earth, Earth</hi> was the matter of our <hi>generation, Earth</hi> is the matter of our <hi>augmentation, Earth</hi> ſhall be the
+<pb n="7" facs="tcp:118989:7"/> matter of our <hi>diſsolution, Sperma faetidum, ſac<g ref="char:EOLhyphen"/>cus stercorum, cibus vermium,</hi> a <hi>deal of froth, a ſack of filth,</hi> and <hi>a gobbet for the grave.</hi> Wherein as in a <hi>pitcht Feild, heat, cold, draught, and moiſture,</hi> are continually <hi>fighting</hi> and ſtri<g ref="char:EOLhyphen"/>ving which ſhould be <hi>maſter,</hi> until at length one becomes <hi>praedominant;</hi> and then the bat<g ref="char:EOLhyphen"/>tle being ended each Element returns to his old home, and how ſmall a matter is great enough to end this battle? it is a uſual ſpeech, <hi>that a man may live of a little,</hi> it is a certain truth that <hi>he may die of leſs.</hi> The <hi>weapons</hi> of death are as many as the <hi>waves</hi> in the Sea, <hi>Beasts</hi> in the field, the <hi>tiles</hi> in the City, yea as <hi>diſeaſes</hi> in mans body, &amp; the leaſt of all theſe, even <hi>a prick of a pin</hi> is ſufficient to put an end to this <hi>battle</hi> when the Lord gives the <hi>charge.</hi> 'Tis eaſy to believe this of others, hard of our ſelves, and by ſo much more hard by how much the approach of death is more nigh. <hi>In an hour which ye think not of your Lord cometh.</hi> and therefore,</p>
+               <p>Thirdly, That hour will come when leaſt <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> expected to come. The <hi>weapon</hi> wherewith our firſt Parents were wounded, was <hi>not dy<g ref="char:EOLhyphen"/>ing,</hi> 
+                  <note place="margin">6. Gen. 4.</note> but the <hi>broad point</hi> thereof dayly experi<g ref="char:EOLhyphen"/>ence hath <hi>blunted,</hi> whereſore Satan whets out another more contracted, and no leſs deadly.
+<pb n="8" facs="tcp:118989:8"/> 
+                  <hi>Ye ſhall not die this day, or this week, or this month, or this year,</hi> and thus concluding to the laſt pe<g ref="char:EOLhyphen"/>riod, what doth he but <hi>retail</hi> that to us which he <hi>ſold in groſs</hi> to our firſt Parents? for is not the total of all theſe parcels <hi>ye ſhall not die?</hi> and are we not apt on this ſcore, to put off death <hi>farther</hi> by how much it cometh on <hi>faſter?</hi> thus 'tis obſerved that <hi>Old men</hi> are moſt what moſt <hi>covetous, when dying,</hi> then <hi>moſt buiſie how to live,</hi> ſuch was that <hi>fool</hi> in the Goſpel, <hi>a fool in grain</hi> (as one cal's him) who meaſu<g ref="char:EOLhyphen"/>red his <hi>years</hi> by his <hi>barnes,</hi> and his <hi>life</hi> by his <hi>ſtores,</hi> and thereon <hi>ſang requiems</hi> to his own Soul, but death comes and both puts a <hi>ſtop</hi> in his <hi>note,</hi> and turns his <hi>longs</hi> and his <hi>larges</hi> in<g ref="char:EOLhyphen"/>to <hi>briefs</hi> and <hi>ſemibriefs. Thou fool this night ſhall thy Soul be taken from thee.</hi> Therefore <note place="margin">17. Luk. 20.</note> be ye alſo ready for in ſuch an hour as ye think not the ſon of man cometh. His coming is uncertain, ſuddain, unexpected.</p>
+               <p>In theſe reſpects that day is compared to the <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> 
+                  <hi>coming of a thief, v.</hi> 43. <hi>Know this that if the good man of the houſe had known in what watch the thief would come, he would have watched and not have ſuffered his houſe to be broken up.</hi> The coming of a <hi>thief</hi> is <hi>uncertain,</hi> he gives no <hi>ſig<g ref="char:EOLhyphen"/>nals</hi> precedent. <hi>Sudden,</hi> he makes what ſpeed he can. <hi>
+                     <g ref="char:V">Ʋ</g>nexpected,</hi> the time he choſes is that
+<pb n="9" facs="tcp:118989:8"/> of <hi>deep ſleep</hi> and ſecurity. So (you have heard) is the day of the Lords coming. To which we may add a fourth. A thief comes not to <hi>break the houſe up,</hi> and ſo be gone; but to make whatever is <hi>portable</hi> to be his <hi>booty.</hi> Thus death <hi>ſtrips</hi> men of all their <hi>externals.</hi> Of all our <hi>buildings</hi> it onely leaves us a <hi>tomb,</hi> of all our <hi>lands</hi> onely a <hi>grave,</hi> and of all our <hi>goods</hi> onely a <hi>Tablecloth</hi> for the <hi>worms.</hi>
+               </p>
+               <p>We are here like <hi>Boys</hi> playing for <hi>counters,</hi> which <hi>come and go:</hi> one while the heap is on this ſide, another while on that, at length comes the Maſter and ſweeps all away. And alas, how <hi>great loſers</hi> will <hi>Great men</hi> then be if for <hi>nothing</hi> they muſt part with <hi>all?</hi> Said I, for <hi>nothing?</hi> Surely if it be not <hi>for better,</hi> it will be <hi>for worſe. For better</hi> it will be to the ſer<g ref="char:EOLhyphen"/>vants who <hi>keep on, for worſe</hi> to thoſe who <hi>keep off</hi> this Watch.</p>
+               <p>The Subjects and Adjuncts of both are de<g ref="char:EOLhyphen"/>ſcribed. <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>8</label> Of the former, <hi>v.</hi> 46, 47. Of the later in the reſt of the Chapter.</p>
+               <list>
+                  <pb n="10" facs="tcp:118989:9"/>
+                  <item>The firſt Sub<g ref="char:EOLhyphen"/>ject deſcri<g ref="char:EOLhyphen"/>bed
+<list>
+                        <item>Relatively, in relation to
+<list>
+                              <item>God, <hi>A Servant.</hi>
+                              </item>
+                              <item>Gods houſehold, <hi>A Ruler.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Abſolutely, by his
+<list>
+                              <item>Habits,
+<list>
+                                    <item>Faithfulneſs.</item>
+                                    <item>Wiſdom.</item>
+                                 </list>
+                              </item>
+                              <item>Act, Giving illu<g ref="char:EOLhyphen"/>ſtrated by the
+<list>
+                                    <item>Object
+<list>
+                                          <item>Perſonal, <hi>Them.</hi>
+                                          </item>
+                                          <item>Real, <hi>Meat.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>Adjunct, Time <hi>In due ſeaſon.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Adjuncts deſcribed
+<list>
+                        <item>Diſtinctly,
+<list>
+                              <item>The duty conſidered
+<list>
+                                    <item>Materially, <hi>Doing.</hi>
+                                    </item>
+                                    <item>Formally, <hi>So doing.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Priviledg in its
+<list>
+                                    <item>Kind, <hi>Bleſſedneſs.</hi>
+                                    </item>
+                                    <item>Seaſon, <hi>At the Lords coming.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Conjunctly,
+<list>
+                              <item>Order. Firſt Duty, then Priviledg.</item>
+                              <item>Subject, One and the ſame, <hi>That Servant.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <hi>Bleſſed is that Servant whom his Lord, when he cometh, ſhall find ſo doing.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Our relation of Servants.</hi>
+               </head>
+               <p>GOd is the <hi>Lord,</hi> his <hi>dominion</hi> is abſolute <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> over all, yet we find him not called <hi>Lord</hi> till Man is created, his ſpecial Dominion is over Man. Inferior creatures ſerve the Lord <hi>paſſively,</hi> man <hi>actively:</hi> as they praiſe God <hi>obje<g ref="char:EOLhyphen"/>ctively</hi> with <hi>mans mouth:</hi> ſo they ſerve God with <hi>mans hands.</hi> Man therefore in a ſpecial reſpect ſtands thus related to the <hi>Lords ſervice.</hi> Whoſe obedience to God (as to the manner) ſhould be like <hi>childrens</hi> to <hi>parents, free and in<g ref="char:EOLhyphen"/>genuous,</hi>
+                  <pb n="11" facs="tcp:118989:9"/> but (as to the matter and end) like <hi>ſervants</hi> to their <hi>Lords.</hi> For as <hi>ſervants</hi> may not act according to their own <hi>wills,</hi> but their <hi>masters;</hi> nor for their own but their maſters behoof: Even ſo the <hi>Lords ſervants</hi> act in all things conformably to the <hi>Lords will</hi> of <hi>precept,</hi> as their ground; ſubſerviently to the <hi>Lords glory,</hi> as their chief end. Devils conform to Gods <hi>will</hi> of <hi>purpoſe:</hi> Wicked men may (as Jereboam did) to Gods <hi>will</hi> of <hi>propheſy:</hi> but the Lords ſervants do to his <hi>will</hi> of <hi>precept.</hi>
+               </p>
+               <p>Devils likewiſe and wicked men may ſub<g ref="char:EOLhyphen"/>ſerve the Lord and his glory <hi>effectively,</hi> or God may ſerve himſelf by them: but the Lords ſervants do it <hi>intentionally,</hi> and make it their aim and chief end. Nor is it <hi>mercenary</hi> (even for the Lords ſervants) ſecondarily to re<g ref="char:EOLhyphen"/>ſpect their own good, or the <hi>recompence of re<g ref="char:EOLhyphen"/>ward:</hi> (for <hi>Scripture motives</hi> cannot ſtir up di<g ref="char:EOLhyphen"/>rectly an <hi>unlawfull affection)</hi> provided the Lord and his glory be the chief end. And though there be ſpecial acts of Gods ſervice (as eſpe<g ref="char:EOLhyphen"/>cially referring to this ſupreme end) yet he that in all things eys Gods <hi>word</hi> as his <hi>Rule,</hi> Gods <hi>glory</hi> as his <hi>Aim,</hi> is rightly ſaid in all things (e<g ref="char:EOLhyphen"/>ven in his <hi>ſhop</hi> and at his <hi>plow)</hi> to ſerve the Lord. And ſuch is the ſervice here meant, whereby we ſerve God in <hi>holineſs,</hi> (the ſum of <note place="margin">Luke 1. 75.</note>
+                  <pb n="12" facs="tcp:118989:10"/> the firſt Table) in <hi>rightouſneſs,</hi> (the ſum of the Second) <hi>(ſincerely)</hi> before him, <hi>(intirely,)</hi> all the days of our life.</p>
+               <p>To this ſervice we are obliged by Creation, <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> Providence, Redemption, Covenant.</p>
+               <p>Firſt, By Creation. 1. The benefit of Crea<g ref="char:EOLhyphen"/>tion is <hi>infinite,</hi> becauſe the diſtance is <hi>infinite</hi> between <hi>not being</hi> and <hi>being;</hi> wherefore in <hi>that we are,</hi> we are infinitely obliged to ſerve that God by <hi>whom we are.</hi> 2. Each thing <hi>returns</hi> to its firſt <hi>principle,</hi> waters to the Sea, a ſtone to the earth. God is the <hi>Rock</hi> out of which we <note place="margin">Iſa. 51. 1.</note> are <hi>hewn,</hi> our returns ſhould be to him; and no other way ſo to <hi>return,</hi> but by the way of <hi>Service.</hi> 3. Each creature for its ſingle per<g ref="char:EOLhyphen"/>fection makes ſuch returns. Man ſhould much more, who is <hi>Index Rerum,</hi> the <hi>complex</hi> of all perfection. A <hi>Microcoſm,</hi> he hath <hi>being</hi> with the <hi>ſtones, growth</hi> with the <hi>trees, ſenſe</hi> with the <hi>beaſts,</hi> and <hi>reaſon</hi> with the <hi>Angels:</hi> ſo that all creatures may ſay of man, as Iſrael of David, <hi>Have we not all our ſhare in man?</hi> And ſhall ſtocks and ſtones, ſhall dogs and ſwine, ſhall toads and ſerpents ſerve God in their places? and ſhall not man ſerve God in his? 4. Every <hi>inferior</hi> creature ſubſerves the <hi>ſuperior,</hi> water and earth that hath <hi>being and not life,</hi> ſubſerve graſs and trees that have <hi>being and life;</hi> graſs
+<pb n="13" facs="tcp:118989:10"/> and trees that have <hi>being and life but not ſenſe,</hi> ſubſerve beaſts and birds that have <hi>being, life and ſenſe;</hi> beaſts and birds that have <hi>being, life, ſenſe and not reaſon,</hi> ſubſerve man that hath <hi>be<g ref="char:EOLhyphen"/>ing, life, ſenſe and reaſon.</hi> God is mans <hi>ſole ſu<g ref="char:EOLhyphen"/>perior,</hi> and ſhall not man ſerve him? ſhall this <hi>ſtring</hi> be out of <hi>tune:</hi> and break this admira<g ref="char:EOLhyphen"/>ble <hi>harmony?</hi> 5. God deſigned his own ſervice in making us. <hi>Patriae te genui non Catilinae</hi> ſaid the Roman to his Son: ſo may God to us. I made you not to ſerve <hi>Sin</hi> or <hi>Satan,</hi> your <hi>ſelves</hi> or the <hi>world,</hi> but to ſerve me. The making of a piece of work, is a <hi>legal title,</hi> whereon to ground property, and the maker knows beſt how to determine the uſe and end of his work ſo made. God is our maker, and he hath made us for his own ſervice. We therefore are the Lord's Servants by Creation.</p>
+               <p>Secondly <hi>Providence,</hi> We are <hi>upriſing</hi> and <hi>downlying</hi> in the <hi>Lord's Family,</hi> fed at his <hi>Table, Cloth'd</hi> at his <hi>coſt.</hi> From him we receive <hi>Meat, Drink</hi> and <hi>VVages.</hi> If we give but part we expect ſervice, and ſhall not We ſerve God who giveth all? All that We have, yea, all that all Creatures have, God hath impower<g ref="char:EOLhyphen"/>ed us as <hi>Stewards</hi> in his Family to gather in the <hi>Rent</hi> from the whole <hi>Creation,</hi> and for all, he requires no other <hi>payment</hi> from us then this of <hi>Suit</hi> and <hi>Service.</hi>
+               </p>
+               <pb n="14" facs="tcp:118989:11"/>
+               <p>Thirdly, We are the Lords Servants by <hi>Re<g ref="char:EOLhyphen"/>demption,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> that We might be Exalted to the Lord's Service. He that <hi>thought it no robbery to be equal with God, humbled himſelf to the form of</hi> 
+                  <note place="margin">2. Phil 7. 8.</note> 
+                  <hi>a Servant.</hi> By which means it is both our priviledge, and therefore Luk. 1. 74. Said to be <hi>granted</hi> [<gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] granted as a ſpecial <hi>Act of Grace,</hi> and our duty to Serve the Lord. Our duty becauſe <hi>we are not our own, we are bought with a price.</hi> It is <hi>ſtealth</hi> to <hi>rob</hi> a man <note place="margin">2 Cor. 6. 20.</note> of his <hi>purchaſe, Sacriledge</hi> to <hi>rob</hi> God of his. God's motto is <hi>ſervo, I ſave,</hi> a Chriſtians is <hi>ſer<g ref="char:EOLhyphen"/>vio, I ſerve.</hi>
+               </p>
+               <p>Fourthly, We are God's Servants by <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> or his <hi>Covenant-Servants. Baptiſme</hi> and the <hi>Lord's-Supper</hi> are called <hi>Sacraments,</hi> that is, military engagements, the firſt <hi>obteining,</hi> the ſecond <hi>renewing</hi> that Obligation to fight as <hi>Souldiers</hi> under <hi>Chriſts Banner</hi> againſt the <hi>VVorld,</hi> the <hi>Fleſh,</hi> and the <hi>Devil.</hi> They are in the like ſort called <hi>Seals</hi> ratifying our Cove<g ref="char:EOLhyphen"/>nant agreement, as <hi>Apprentices</hi> ſeal their <hi>In<g ref="char:EOLhyphen"/>dentures,</hi> not thereby witneſſing what they have done, but what by Covenant they ſtand obliged to do. Under both notions We are thereby engaged to the Lord's ſervice.</p>
+               <p>In a word, We are the Lord's <hi>made</hi> Servants, his <hi>hired</hi> Servants, <hi>bought</hi> Servants, <hi>ſworn</hi> Ser<g ref="char:EOLhyphen"/>vants. God is the Lord, We all his Servants.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="15" facs="tcp:118989:11"/>
+               <head>CHAP. III. <hi>Our Work of Service.</hi>
+               </head>
+               <p>
+                  <hi>Servitus</hi> implies <hi>ſervitium,</hi> are we God's Ser<g ref="char:EOLhyphen"/>vants? <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> We muſt up then and be doing him ſervice The Lord never placed man upon Earth, as <hi>Leviathan</hi> is plac'd in the <hi>Sea</hi> barely to take his <hi>Paſtime</hi> therein. <hi>Adam</hi> in <hi>Para<g ref="char:EOLhyphen"/>diſe</hi> had no ſuch <hi>idulgence:</hi> but muſt <hi>dreſs</hi> the <hi>Garden.</hi> Leſs ſince the fall Gen. 3, 19. <hi>In the ſweat of thy face ſhalt thou eat bread.</hi> Whether conſidered as a <hi>Commination,</hi> thou ſhalt not eat without ſweating, or as a <hi>Promiſe,</hi> on ſweating thou ſhalt eat, or as a <hi>Command,</hi> that thou mayeſt eat thou muſt ſweat, which way ſoever we conſider it, theſe two are inſepara<g ref="char:EOLhyphen"/>bly joyned, <hi>ſweating</hi> or working, and <hi>eating. Cain</hi> and <hi>Abel</hi> were <hi>Heirs apparant</hi> to the whole <hi>Earth,</hi> yet the one a <hi>tiller</hi> of the ground, the other a <hi>feeder</hi> of Cattle. And <hi>Chriſt</hi> him<g ref="char:EOLhyphen"/>ſelf was <hi>Lord</hi> both of <hi>Heaven</hi> and <hi>Earth,</hi> yet is he called not onely the <hi>Carpenters</hi> Son, but the <hi>Carpenter.</hi> It ſeems before he entered into <note place="margin">Mark 6. 5.</note> his publick <hi>Miniſtery</hi> he <hi>wrought</hi> at that <hi>Trade.</hi> Though all <hi>Gentlemen</hi> are not bound to be
+<pb n="16" facs="tcp:118989:12"/> 
+                  <hi>Tradeſmen,</hi> yet all are the Lord's Servants, and therefore bound in one kind or other, in <hi>Church</hi> or <hi>State</hi> to do the Lord Service.</p>
+               <p>Firſt, <hi>Nothing is next to evil,</hi> therefore the <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> next way to do <hi>evil</hi> is to do <hi>nothing.</hi> When the Devil finds the <hi>Houſe empty, ſwept and gar<g ref="char:EOLhyphen"/>niſhed,</hi> 
+                  <note place="margin">12. Mat. 44.</note> 
+                  <hi>he enters with ſeven worſe Devils,</hi> an Houſe <hi>emptied</hi> by <hi>Idleneſs,</hi> and <hi>garniſhed</hi> by <hi>Pride,</hi> is (as it were) <hi>ſwept</hi> for the <hi>Devil.</hi> It is therefore good advice to be ſtill ſo empty<g ref="char:EOLhyphen"/>ed that when the Devil <hi>tempts</hi> us to <hi>Sin,</hi> we may be able to anſwer that we are not at <hi>lea<g ref="char:EOLhyphen"/>ſure,</hi> we have ſomewhat elſe to do. <hi>Davids Idleneſs</hi> made way for <hi>Adultery, Murther, Blaſ<g ref="char:EOLhyphen"/>phemy.</hi>
+               </p>
+               <p>Secondly, <hi>Even not doing, provoketh God's</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> 
+                  <hi>wrath.</hi> The <hi>evil Servant</hi> in the Goſpell, did <note place="margin">19. Luk. 20.</note> not riotouſly miſpend his Talent, but <hi>wrapt it up,</hi> and for that reaſon was rejected, the <hi>Tree cut down</hi> as <hi>cumbring the ground,</hi> not <hi>for</hi> 
+                  <note place="margin">13. Luk. 7.</note> 
+                  <hi>bringing forth evil fruit,</hi> but for not <hi>bringing forth good.</hi> And that dreadful ſentence <hi>depart ye curſed</hi> &amp;c. is grounded on Sins of <hi>omiſſion,</hi> 
+                  <note place="margin">25. Mat. 4.</note> not <hi>feeding,</hi> not <hi>cloathing,</hi> not <hi>viſiting,</hi> not <hi>doing.</hi>
+               </p>
+               <p>Thirdly, <hi>Our time of doing ſervice for God</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> 
+                  <hi>is one of our moveables,</hi> yea, <hi>bonum periturum.</hi> But by <hi>well-doing,</hi> we ſhall make that <hi>fix'd</hi>
+                  <pb n="17" facs="tcp:118989:12"/> which is <hi>fluide,</hi> and <hi>ſettle</hi> that in effect with us which in it ſelf <hi>flyeth</hi> from us.</p>
+               <p>Fourthly, the <hi>Time of our doing is but ſhort,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> meaſured by a <hi>day,</hi> an <hi>hour,</hi> part of a day, a <hi>mo<g ref="char:EOLhyphen"/>ment</hi> part of an <hi>hour. I cannot but weep</hi> (ſayes one) <hi>when my Hour-Glaſs ſtands by me and I conſider how ſlowly my work goeth on, and how faſt my time goes, as faſt as one grain of ſand follow<g ref="char:EOLhyphen"/>eth another.</hi> Subduct the time of <hi>Infancy, Do<g ref="char:EOLhyphen"/>tage</hi> and <hi>Sleep,</hi> which are times of <hi>not doing,</hi> the time ſpent in <hi>Sin</hi> which is <hi>ill doing,</hi> and the time requiſite for ſupply of the <hi>neceſsityes</hi> of <hi>Nature,</hi> which is beſides our <hi>main buſineſs</hi> that we are to do, and how little time re<g ref="char:EOLhyphen"/>mains for us to do ſervice for God?</p>
+               <p>Fifthly, <hi>A great part of our ſhort time is al<g ref="char:EOLhyphen"/>ready</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> 
+                  <hi>miſpent.</hi> It may be we have lived 20. 30, or 40. years, and what have we done for God all this time? it concernes us now to make the beſt improvement of our <hi>Old Leaſe,</hi> and to do much in that little time which re<g ref="char:EOLhyphen"/>mains.</p>
+               <p>Sixthly, <hi>On this ſhort time of doing hangs E<g ref="char:EOLhyphen"/>ternity.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> What time is <hi>Loſt now,</hi> will be <hi>Loſt for ever,</hi> doth it not then concern us to do that well, which being once <hi>well-done</hi> will make us <hi>Men,</hi> more then <hi>Men, Angels,</hi> more then <hi>Angels,</hi> for <hi>ever?</hi> doth it not corcern us ſo to
+<pb n="18" facs="tcp:118989:13"/> 
+                  <hi>imploy</hi> our time, that we may eternally rejoyce ſo to have <hi>imployed it?</hi> doth it not concern us to be <hi>doing,</hi> and <hi>ſo doing? that when the Lord cometh he may find us ſo doing.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IIII. <hi>The manner of Our Work.</hi>
+               </head>
+               <p>So run, So fight, So do. One <hi>blemiſh</hi> in the <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> face is enough to make it <hi>deformed.</hi> One <hi>flaw</hi> in the <hi>grant, invalid. Malum ex quolibet defectu.</hi> If the manner of doing be defective, a great part, yea the better part is wanting, and there<g ref="char:EOLhyphen"/>fore a <hi>deed done</hi> is in Gods account <hi>a deed not done,</hi> where the <hi>manner</hi> of the <hi>doing</hi> anſwers not the <hi>matter</hi> of the <hi>deed.</hi> 1. Cor. 11. 20. <hi>This is not to eat the Lord's-Supper.</hi> Alas how many of theſe <hi>few good deeds</hi> which we <hi>ſcore</hi> up to our ſelves to have done, how many will <hi>ſhrink</hi> like <hi>Gideons Army</hi> at the great day of reckoning, and prove good deeds not done, Sermons not heard, prayers not made, Sacra<g ref="char:EOLhyphen"/>ments not received, Almes not given, in a word, <hi>good deeds not done,</hi> becauſe <hi>not done</hi> in a <hi>right manner,</hi> becauſe not <hi>ſo done?</hi>
+               </p>
+               <pb n="19" facs="tcp:118989:13"/>
+               <p>So, referrs to the verſe precedent, and thence <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> borrows light to diſcover its emphaſis. So, (i. e.) <hi>faithfully, wiſely, juſtly.</hi>
+               </p>
+               <p n="1">1. The Lords ſervants muſt be faithfull in doing, faithfull in <hi>Divinity,</hi> and faithfull in <hi>mo<g ref="char:EOLhyphen"/>rality,</hi> faithfull in <hi>head</hi> and in <hi>heart:</hi> as faith<g ref="char:EOLhyphen"/>fulneſs is oppoſed to unſoundneſs in princi<g ref="char:EOLhyphen"/>ples, or <hi>hereſie;</hi> and as oppoſed to unſoundnes in practice, or <hi>hypocriſie.</hi> Firſt, as faithfulneſs is oppoſed to hereſie. All ſin is damnable, yet we find not this <hi>epithete</hi> in ſuch ſort affixed to any as hereſie, <hi>damnable hereſie.</hi> The leproſie <note place="margin">2 Peter 2. 1.</note> of the head was under the Law reputed the worſt. Errors of judgment are not under the Goſpel the leaſt. They are <hi>works of the fleſh,</hi> 
+                  <note place="margin">Galat. 5. 20</note> and ſhut out of heaven, and if this be no little puniſhment, neither are hereſies, peccadilloes, or little ſins. The Lords faithfull ſervants <hi>hold faſt the form of ſound words</hi> in faith and <hi>con<g ref="char:EOLhyphen"/>tend</hi> 
+                  <note place="margin">2 Tim. 1. 13.</note> 
+                  <hi>earneſtly for the faith once delivered to the</hi> 
+                  <note place="margin">Jude 3.</note> 
+                  <hi>Saints.</hi> Once <hi>delivered,</hi> as Chriſt once <hi>died.</hi> A <hi>new Creed</hi> ſuppoſes a <hi>new God,</hi> and <hi>new Gods</hi> prove <hi>Old Devils. New faiths, old hereſies.</hi> The Lords ſervants muſt be faithfull, as faithfulneſs is oppoſed to hereſie. And,</p>
+               <p n="2">2. As <hi>faithfulneſs</hi> is oppoſed to <hi>hypocriſy. Hy<g ref="char:EOLhyphen"/>pocrites</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> are the <hi>Devils firſt born, Heirs</hi> to <hi>hell</hi> as their <hi>portion,</hi> the portion of Hypocrites. But
+<pb n="20" facs="tcp:118989:14"/> ſincerity is Chriſtian perfection, <hi>VValk before me and be thou perfect. Compleatneſs</hi> is requi<g ref="char:EOLhyphen"/>red in the <hi>Law, ſincerenefs</hi> accepted in the <hi>Go<g ref="char:EOLhyphen"/>ſpell.</hi> 
+                  <note place="margin">Gen. 17. 1.</note> And where this is ſeen in Gods Ser<g ref="char:EOLhyphen"/>vant, even groſs ſins are paſt by unſeen, as in <hi>Aſa.</hi>
+               </p>
+               <p>2. <hi>The Lords ſervants muſt be wiſe in doing</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> 
+                  <hi>ſervice.</hi> Wiſdom is uſually defined, <hi>Scientia operandorum,</hi> diſtributed into Eccleſiaſtical and Civil. But the wiſdom here ſpoken of, is of another nature, or rather Wiſdom above nature. <hi>VViſdom from above.</hi> Not onely that <note place="margin">Jam. 3. 17.</note> 
+                  <hi>auriga virtutum,</hi> without which virtue is not virtue, but ſin; even <hi>zeal</hi> without <hi>knowledg,</hi> is but like <hi>fire</hi> in the <hi>thatch;</hi> like <hi>ſwift horſes</hi> with<g ref="char:EOLhyphen"/>out a <hi>skilfull wagoner.</hi> But that <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that complex of all virtue, diſcovering to our coſt the right mark, <hi>happineſs,</hi> and directing the right ground and byas, <hi>holineſs.</hi> This is <hi>Sum<g ref="char:EOLhyphen"/>ma Summarum,</hi> in one word, <hi>Religion. Be</hi> 
+                  <note place="margin">Pſa 2. 10, 11. 12. Eph. 3. 15.</note> 
+                  <hi>wiſe, Serve the Lord. Kiſs the Son. Let us walk circumſpectly, not as fools, but as wiſe.</hi>
+               </p>
+               <p>Though this faithfulneſs and wiſdom be <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> neceſſarily required in all the Lords Servants; yet more eſpecially in them whom he hath made <hi>Stewards</hi> or <hi>Rulers</hi> over his houſhold. Many things are here conſiderable. 1. <hi>Rule and Religion are not inconſiſtent.</hi> Though <hi>La<g ref="char:EOLhyphen"/>zarus</hi>
+                  <pb n="21" facs="tcp:118989:14"/> had been a begger, yet <hi>Abraham</hi> (in whoſe boſom he reſted) had been a mighty Prince. In Gods-houſe are both <hi>Rulers</hi> and <hi>Ruled.</hi> 2. <hi>All in Gods houſe are not Rulers.</hi> The queſtion implies this, <hi>VVho is that faithfull and wiſe Servant whom the Lord hath made Ruler?</hi> The body of the Saints and them who have the rule are clearly diſtinguiſhed, Heb 13. 24. We are all <hi>Crabstocks</hi> by nature, God <hi>grafts</hi> up<g ref="char:EOLhyphen"/>on us what <hi>fruit</hi> he pleaſeth. On ſome one kind, on others another. If all were <hi>Rulers</hi> who ſhould be <hi>Ruled?</hi> 3. <hi>Such as are Rulers in the Lords houſe ſhould be of Gods making.</hi> The <hi>hand</hi> out of the <hi>Cloud</hi> muſt put on the <hi>Crown,</hi> with this motto <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>à Deo coronatus.</hi> What ſervant dates own him as a Steward whom the Maſter ordains not? God hath ſet us our <hi>ranks,</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the breaking of them muſt cauſe confuſion. 4. <hi>Thoſe who are made Rulers over us are Servants under God,</hi> and are to ſerve God in their places, as God hath plac'd them in his ſervice. If Rulers as Rulers <hi>ſerve</hi> not God, God will not as Rulers <hi>own</hi> them. That duty which God requires of us, reacheth every capacity, eſpecially that of our ſpheres, we are bound to ſerve God as others cannot ſerve him, Rulers therefore as Rulers. And indeed that we are in Gods ſervice, which we are in
+<pb n="22" facs="tcp:118989:15"/> our proper places. Rulers are called <hi>Gods,</hi> as bearing <hi>Gods image.</hi> Wherefore as God is <hi>Optimus Maximus:</hi> ſo thoſe who are like to God <hi>good in ſerving.</hi> And this is the proper act of theſe Rulers they are to diſtribute, to give.</p>
+               <p>The gifts and graces which Gods ſervants <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> receive, they receive to give. To profit with<g ref="char:EOLhyphen"/>all for edification. As the Sun hath light, a fountain water, not onely by way of <hi>abun<g ref="char:EOLhyphen"/>dance,</hi> but <hi>redundance.</hi> And to him who thus hath, ſhall be given. As milk in the breaſt is <note place="margin">Luke 8. 18.</note> both more and better for being ſuckt.</p>
+               <p>That which theſe Rulers diſtribute is <hi>meat,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> not <hi>poyſon,</hi> nor altogether <hi>ſauce,</hi> but <hi>meat.</hi> Not what may <hi>infect</hi> or <hi>puff up</hi> the ſoul, but <hi>feed</hi> it.</p>
+               <p>This <hi>food</hi> muſt not onely be <hi>good</hi> but <hi>proper.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>8</label> What is one mans food is anothers poyſon. Vice may be nouriſh'd with the milk of virtue. Each ſervant muſt have his own meſs, his pro<g ref="char:EOLhyphen"/>per portion, <hi>demenſum ſuum.</hi> 
+                  <note place="margin">Prov. 30. 2.</note>
+               </p>
+               <p>And herein laſtly, muſt Rulers over <hi>God's</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>9</label> houſhold obſerve time and ſeaſon. Though it be worſe in them than any others, to be time-ſervers, and in that ſenſe to turn <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> into <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by ringing <hi>changes</hi> to the <hi>time;</hi> Yet a<g ref="char:EOLhyphen"/>bove all others is it required in them, like theſe <hi>Heads of Iſſachar,</hi> to know the times, what Iſrael ought to do.</p>
+               <pb n="23" facs="tcp:118989:15"/>
+               <p>In a word, <hi>Gods ſervants</hi> muſt do his ſer<g ref="char:EOLhyphen"/>vice <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>10</label> in a right manner, faithfully, wiſely. <hi>Faith<g ref="char:EOLhyphen"/>fully,</hi> as Rulers over his houſhold, giving his ſervants meat: <hi>wiſely</hi> giving meat proper, in proper ſeaſons. <hi>VVho is that faithfull and wiſe ſervant, whom the Lord hath made Ruler over his houſhold, to give them meat in due ſeaſon? Bleſſed is that Servant whom his Lord, when he cometh, ſhall find ſo doing.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>The reward of Working aright.</hi>
+               </head>
+               <p>
+                  <hi>Servants, Friends,</hi> and <hi>Children</hi> are diſtinct re<g ref="char:EOLhyphen"/>latives <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> among men, but they meet in one and the ſame to God. Such as are the Lord's <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> are his <hi>Friends,</hi> &amp; ſuch as are his <hi>Friends</hi> are his <hi>Children</hi> alſo. And being his <hi>Children,</hi> ſhall not miſs their <hi>Childrens Portion. Bleſ<g ref="char:EOLhyphen"/>ſedneſs.</hi>
+               </p>
+               <p>The firſt <hi>Sermon of Christ</hi> on the mount <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> was filled with <hi>bleſſing,</hi> ſo ſhall the laſt <hi>ſen<g ref="char:EOLhyphen"/>tence</hi> on the <hi>bench.</hi> He concludes as he be<g ref="char:EOLhyphen"/>gins. The influence of this Sun of righteouſ<g ref="char:EOLhyphen"/>neſs to his diſciples in <hi>Virgo</hi> was and in <hi>Libra</hi> ſhall be <hi>Bleſſed.</hi>
+               </p>
+               <pb n="24" facs="tcp:118989:16"/>
+               <p>'Tis the <hi>laſt Scene</hi> denominates the play in <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> a <hi>Tragedy</hi> or <hi>Comedy.</hi> Though the Children of God may taſt bleſſedneſs now, as <hi>Ionathan</hi> did honey on the top of the rod, yet they ſhall not eat with a full hand till the Lord's coming. The <hi>contract</hi> is made now, but then ſhall the <hi>Marriage</hi> be conſummated. <hi>Bleſſed when the Lord cometh.</hi>
+               </p>
+               <p>The Lord comes both to the <hi>good and ill Ser<g ref="char:EOLhyphen"/>vants,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> but to the good as a ſpecial <hi>meſſenger</hi> with a <hi>writ of eaſe,</hi> to the ill as a <hi>Iaylor</hi> with a <hi>mittimus,</hi> and in both warrants this clauſe, <hi>ne omittas propter aliquam libertatem.</hi> His com<g ref="char:EOLhyphen"/>ing to the evil is like the coming of an <hi>Huſband provoaked</hi> to an <hi>Adultereſs wife,</hi> dreadful un<g ref="char:EOLhyphen"/>grateful. To the good, like the coming of a <hi>li<g ref="char:EOLhyphen"/>ving Huſband</hi> to a <hi>faithful ſpouſe,</hi> cheerful, wel<g ref="char:EOLhyphen"/>com. The Lords ſervant <hi>loſes</hi> nothing by death but what is better loſt then kept, <hi>Sin and miſery.</hi> He <hi>dies in life,</hi> and therefore <hi>lives in death,</hi> and is Bleſſed at the Lord's coming. <hi>Bleſſed is that ſervant whom his Lord when he cometh ſhall find ſo doing.</hi>
+               </p>
+               <p>Though there be nothing for the Lord's <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> Servants to <hi>pay;</hi> the Lord hath done that, to the utmoſt farthing; yet is there ſomewhat for them to do, Men and Brethren what <note place="margin">2. Acts. 37.</note> ſhall we do to be ſaved? God finds his <hi>doing</hi>
+                  <pb n="25" facs="tcp:118989:16"/> and then gives the <hi>bleſſing. Holineſs</hi> goes be<g ref="char:EOLhyphen"/>fore <hi>happineſs.</hi> And indeed were it poſſible for an unholy perſon to enter Heaven, yet to him Heaven would not be Heaven. For com<g ref="char:EOLhyphen"/>munion with God is not onely ungrateful but grievous to an unholy perſon: and by ſo much more, by how much more cloſe and ſpiritual, as appears in all ways of communi<g ref="char:EOLhyphen"/>on in grace. And this communion with God is the Heaven of Heavens, which to an un<g ref="char:EOLhyphen"/>ſanctified man would be rather a Hell then a Heaven. Without holyneſs we cannot ſee God. That Servant whom the Lord bleſ<g ref="char:EOLhyphen"/>ſeth he finds ſo doing.</p>
+               <p>It is not <hi>ita feciſſe,</hi> ſo to have done, but <hi>ita</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> 
+                  <hi>facientem</hi> ſo doing. <hi>Perſeverance</hi> is the <hi>Queen</hi> of <hi>graces.</hi> Others may <hi>ſtrive</hi> well, but ſhe a<g ref="char:EOLhyphen"/>lone ſhall be <hi>crowned. Iudae laudantur exordia ſed finis proditione damnatur.</hi> Many who have <hi>bloſſom'd</hi> fairly at <hi>ſpring</hi> have been <hi>blaſted</hi> be<g ref="char:EOLhyphen"/>fore <note place="margin">Gal. 5. 7.</note> 
+                  <hi>Harvest. Ye did run well</hi> is no honour, but <hi>I have finiſhed my courſe.</hi> Thoſe are bleſſed <note place="margin">2. Tim. 4. 7.</note> whom the Lord finds ſo doing. Nor doth this order of bleſſing reſtrain Gods freeneſs in bleſſing, for as he <hi>freely</hi> gives <hi>grace to do:</hi> ſo he <hi>freely</hi> gives <hi>glory on doing. Bleſſed is that ſervant whom the Lord finds ſo doing</hi>
+               </p>
+               <pb n="26" facs="tcp:118989:17"/>
+               <p>
+                  <hi>That ſervant.</hi> The ſubject is one both of <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> the duty and priviledge, of doing and bleſ<g ref="char:EOLhyphen"/>ſing. The ſubſtance the ſame, the accidents onely changed. The <hi>garment</hi> the ſame, onely <hi>new trimmed. Bleſſed is that Servant, (that Ser<g ref="char:EOLhyphen"/>vant) whom his Lord when he cometh ſhall find ſo doing.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Application to the occaſion.</hi>
+               </head>
+               <p>THis whole <hi>Sermon</hi> in all its parts might be <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> 
+                  <hi>exemplified</hi> in his <hi>ſingle inſtance</hi> whoſe Fu<g ref="char:EOLhyphen"/>neral we at preſent ſolemnize. The <hi>harmo<g ref="char:EOLhyphen"/>ny</hi> is full, I ſhall touch, and but touch a few <hi>ſtrings.</hi>
+               </p>
+               <p>Firſt, he was the Lords Servant, and as a <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> Servant in all his doings made his <hi>Lords will</hi> his <hi>rule,</hi> his <hi>Lords glory</hi> his <hi>end.</hi> 1. His <hi>Lords will</hi> his <hi>rule</hi> in <hi>ſacred things</hi> determined by <hi>Scri<g ref="char:EOLhyphen"/>pture,</hi> in <hi>Civil</hi> by the <hi>Laws</hi> of the Land. To which purpoſe he would often ſay, <q rend="inline">
+                     <hi> That if men were left to themſelves, their lust and inter<g ref="char:EOLhyphen"/>eſt in things civil would be their Law, their fancy and temptation in things ſacred, their Bible.</hi>
+                  </q> When every man did that which was right in
+<pb n="27" facs="tcp:118989:17"/> his own eyes, all was wrong done. <hi>Diſorders</hi> in <hi>Tribes,</hi> as in <hi>Benjamin;</hi> in <hi>Cities,</hi> as in <hi>Gibeah;</hi> in <hi>Families,</hi> as in <hi>Micah</hi>'s. The reſult of this principle: <hi>In thoſe days there was no King in Iſ<g ref="char:EOLhyphen"/>rael,</hi> 
+                  <note place="margin">Judg. 21. 25.</note> 
+                  <hi>but every man</hi> (followed the light within him) <hi>did that which was right in his own eyes.</hi>
+               </p>
+               <p>Secondly, His Lords <hi>glory</hi> was his chief <hi>end.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> 1. <hi>Not his own glory.</hi> His <hi>juice</hi> was not put forth in <hi>leaves</hi> and <hi>ſuckers,</hi> but <hi>fruit.</hi> The character of a real Saint might be rightly applied to him. <hi>He was more than he ſhewed, yet ſhewed more then moſt who are called Saints do.</hi> 2. <hi>Not his own pro<g ref="char:EOLhyphen"/>fit.</hi> Others may <hi>talk</hi> of <hi>Self denial,</hi> he <hi>practiſ'd</hi> it. And though <hi>aſcended</hi> to the top of the <hi>Tree,</hi> yet <hi>fill'd</hi> he not his own <hi>pockets,</hi> but <hi>ſhak'd</hi> down the <hi>fruit.</hi>
+               </p>
+               <p>Nor was he onely a <hi>Servant</hi> in <hi>relation,</hi> but <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> did ſervice in <hi>action.</hi> He was not a <hi>loyterer,</hi> but <hi>labourer</hi> in that ſtation wherein God had ſet him. <hi>Gods ſervice</hi> in this age is moſt what <hi>lip-ſervice,</hi> his was <hi>life-ſervice.</hi> He was a <hi>Doing Servant.</hi>
+               </p>
+               <p>
+                  <hi>And a ſo doing a Servant.</hi> Faithful and wiſe. <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> 1. <hi>He was faithfull as faithfulneſs is oppoſed to he<g ref="char:EOLhyphen"/>reſie.</hi> A <hi>Catholick Chriſtian,</hi> expreſſly <hi>refuſing in a dark and gloomy day to leave the ark for a Cock<g ref="char:EOLhyphen"/>boat.</hi> A <hi>Proteſtant</hi> of the <hi>best edition,</hi> that is, not <hi>ſuperſtitious</hi> nor <hi>factious;</hi> not <hi>idolatrous, abhor<g ref="char:EOLhyphen"/>ring</hi>
+                  <pb n="28" facs="tcp:118989:18"/> 
+                  <hi>Sacriledg;</hi> nor <hi>ſacrilegious, abhorring Idols.</hi> Not enlarging the <hi>windows</hi> of <hi>Truth</hi> to weaken <hi>Peace,</hi> nor enlarging the <hi>pillars</hi> of <hi>Peace</hi> to ob<g ref="char:EOLhyphen"/>ſcure <hi>Truth.</hi> In a word, whether we reſpect <hi>God</hi> or <hi>Man, Church</hi> or <hi>State,</hi> he was a lively <hi>tranſcript</hi> of the <hi>Proteſtant Religion.</hi> Which was ſo fixt in his heart that at the time of his death (if we may call it a death in regard his ſoul ſeem'd rather to be <hi>given up by him,</hi> than <hi>taken from him)</hi> at the time of his death he ex<g ref="char:EOLhyphen"/>preſſed his deep ſenſe and ſorrow, <q rend="inline">
+                     <hi> That even the Pulpit often eccho's reflections against the Proteſtants, indulgences to Hereticks: cenſuring thoſe as Goats,</hi> (if not Dogs and Swine) <hi>and excuſing theſe as weak or straying ſheep.</hi>
+                  </q>
+               </p>
+               <p>Secondly, <hi>He was faithfull as faithfulneſs is</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> 
+                  <hi>oppoſed to Hypocriſie.</hi> A <hi>plain-hearted Iacob,</hi> a <hi>down-right Nathaniel,</hi> an <hi>Iſraelite</hi> indeed <hi>without guile,</hi> even when and where <hi>guile</hi> was the <hi>fa<g ref="char:EOLhyphen"/>ſhion.</hi> He dared not <hi>look one way</hi> and <hi>row ano<g ref="char:EOLhyphen"/>ther,</hi> (as Watermen uſe) but he dared <hi>ſpeak</hi> as he <hi>thought,</hi> and <hi>do</hi> as he <hi>ſpoke,</hi> (as good men ſhould uſe.)</p>
+               <p>Thirdly, <hi>He was faithfull as faithfulneſs ſi<g ref="char:EOLhyphen"/>gnifies</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> 
+                  <hi>an act of the heart reſting on Chriſt.</hi> Thus even when he drew nigh the <hi>harbor,</hi> he not onely <hi>anchor'd</hi> himſelf on that <hi>Rock,</hi> but alſo provoked others thereto. His words were:
+<pb n="29" facs="tcp:118989:18"/>
+                  <q rend="inline">
+                     <hi> My confidence is alone in Chriſt and his merits, can you ſay ſo too?</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Eſſe Phoebi dulcius lumen ſolet jamjam cadentis.</hi> How pleaſant are the <hi>beams</hi> of <hi>the ſetting Sun?</hi> how pretious the <hi>faith-expreſsions</hi> of this <hi>ſetting Saint?</hi>
+               </p>
+               <p>Secondly, <hi>As he was faithful in doing: ſo was</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>8</label> 
+                  <hi>he wiſe.</hi> Not to ſpeak of that gift of <hi>wiſdom</hi> which fitted him as a <hi>Iudge</hi> for the <hi>Bench,</hi> or as a <hi>Councellor</hi> for the <hi>Board,</hi> becauſe this <hi>Glow<g ref="char:EOLhyphen"/>worme</hi> may ſhine on a <hi>dunghil. The Children of this world may thus be wiſe in their generation,</hi> but <note place="margin">Luke 16. 8.</note> that grace of wiſdom which by <hi>right means</hi> guides to <hi>right ends,</hi> (the ſupreme eſpecially,) wherein true wiſdom conſiſts, and wherein ſuch was his eminence that in vulgar ſpeech, the <hi>Honourable title of honeſt is prefixed to his ti<g ref="char:EOLhyphen"/>tles of Honor.</hi> Few mention his name without ſome Eulogie. The <hi>honeſt Lord Pepys,</hi> or the <hi>good Lord Pepys.</hi>
+               </p>
+               <p>This faithfulneſs and wiſdom, Sword and <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>9</label> Buckler, he ſo exerciſ'd as a Ruler in the Lord's houſhold, that it might be ſaid of him as 'twas of Nerva. <hi>He had done nothing in pub<g ref="char:EOLhyphen"/>lick on account whereof he might be afraid to live private.</hi>
+               </p>
+               <p>I ſpeak before Rulers, and poſſibly ſuch as <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>10</label> may find it neceſſary to <hi>take work out of his ſam<g ref="char:EOLhyphen"/>pler,</hi>
+                  <pb n="30" facs="tcp:118989:19"/> wherefore I ſhall preſume in ſome in<g ref="char:EOLhyphen"/>ſtances in things ſacred and civil.</p>
+               <p>Firſt, <hi>in things ſacred as a ruler over Gods</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>11</label> 
+                  <hi>houſhold.</hi> He not onely deſired but endea<g ref="char:EOLhyphen"/>voured. Firſt, That a Candle might be ſet up in every Candleſtick. Secondly, That this Candle might be lighted and give forth its light to the whole houſe. Thirdly, That this light might be maintained and Oyl duly Miniſtred. Firſt, <hi>That a Candle might be ſet up in every Candleſtick.</hi> Diſtinct <hi>Miniſters,</hi> in diſtinct <hi>Congregations.</hi> As <hi>fixed Starres</hi> not <hi>wandring Planets.</hi> For this reaſon (among many others,) he would no leſs freely then frequently declare his judgement againſt the <hi>maintenance</hi> of <hi>Miniſters</hi> by <hi>Salaries.</hi> As that which left them at large, (like thoſe of old <hi>ſine titulo)</hi> without <hi>relation</hi> to, or <hi>dependance</hi> on any particular <hi>charge</hi> or <hi>people. And as that which opened ſuch a door to pluralityes, tot quots, Nonre<g ref="char:EOLhyphen"/>ſidens as never was ſince the world was.</hi> Many Pariſhes, yea ſome Barronies in this way not ſupplying one Miniſter, nor he regarding to ſupply them. Never ſuch a way to <hi>feed</hi> the <hi>Shepheard</hi> and <hi>ſtarve</hi> the <hi>Sheep,</hi> a little experi<g ref="char:EOLhyphen"/>ence might poſſibly have proved; never ſuch a way to <hi>ſtarve</hi> both <hi>ſhepheard and Sheep.</hi>
+               </p>
+               <pb n="31" facs="tcp:118989:19"/>
+               <p>Secondly, <hi>He both deſired and endeavoured</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>12</label> 
+                  <hi>that each Candle might be lighted,</hi> that <hi>Goſpel-Or<g ref="char:EOLhyphen"/>dinances</hi> might be adminiſtred by all <hi>Goſpel-Miniſters,</hi> and this light not put under a buſhel to the prejudice of the whole Houſe. He would often expreſs his grief that ſo many Shepheards in this Land, in this City eſpecial<g ref="char:EOLhyphen"/>ly, ſhould <hi>ſheer the Fleece,</hi> yet not <hi>own</hi> their <hi>Flocks as ſheep,</hi> yea <hi>diſown</hi> them as <hi>not ſheep.</hi> Or if they feed them once or twiſe a week in a green paſture, yet, (as that no leſs good then great <hi>Biſhop <g ref="char:V">Ʋ</g>ſher</hi> expreſſed it) <hi>not feel how they thrive.</hi> This was to him, and ſhould be to us a lamentation and for a lamentation.</p>
+               <p>Thirdly, <hi>He both deſired and endeavoured</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>13</label> 
+                  <hi>that the Candles lighted ſhould be maintained and Oyl duly miniſtred.</hi> To which end, from his firſt coming into this Land, he put forth his utmoſt for recovering to the Miniſters their <hi>proper</hi> and <hi>legal freehold,</hi> the <hi>Tithes.</hi> And would often ſay that he did not underſtand how any could <hi>ſcruple</hi> to <hi>receive Tithes in ſpe<g ref="char:EOLhyphen"/>cie,</hi> who did not <hi>ſeruple</hi> to <hi>receive ſalaries out of Tithes.</hi>
+               </p>
+               <p>
+                  <hi>He was a faithful and wiſe Ruler in civil</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>14</label> 
+                  <hi>things aſwel as ſacred.</hi> Both as a <hi>Maſter</hi> in his own <hi>Family,</hi> and as a <hi>Magiſtrate</hi> in the <hi>Com<g ref="char:EOLhyphen"/>monwealth.</hi> Firſt, <hi>as a Maſter,</hi> his <hi>Servants</hi> were
+<pb n="32" facs="tcp:118989:20"/> not like <hi>ſlaves</hi> but <hi>lower friends. Quid ſervus? Amicus humilis.</hi> Secondly, <hi>As a Magiſtrate,</hi> the <hi>Chief Iuſtice.</hi> He might <hi>ſhake</hi> his <hi>lap</hi> with <hi>Iuſtice Samuel,</hi> and ſay, <hi>whoſe Ox or Aſs have I</hi> 
+                  <note place="margin">1 Sam. 1213</note> 
+                  <hi>taken?</hi>
+               </p>
+               <p>
+                  <hi>Abſtinuit alieno ut ſiquis unquam,</hi> as was ſpoak <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>15</label> of one formerly. None ever freer from <hi>tit-ting</hi> the <hi>ballance,</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſo ſtrict, ſo ſe<g ref="char:EOLhyphen"/>vere a Juſtice, that he ſeem'd <hi>uncapable</hi> of a <hi>temptation of doing Injuſtice.</hi>
+               </p>
+               <p>And herein, as his <hi>faithfulneſs</hi> was like the <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>16</label> 
+                  <hi>primum mobile,</hi> ſo his <hi>wiſdom</hi> was like the <hi>Coe<g ref="char:EOLhyphen"/>lum Chryſtallinum</hi> that <hi>tempered</hi> the <hi>violence</hi> of that <hi>motion</hi> to <hi>due time</hi> and ſeaſon, both in his particular and general calling, as a <hi>Ruler</hi> and as a <hi>Servant,</hi> as a <hi>Iudge</hi> and as a <hi>Chriſtian.</hi> Firſt, <hi>as a Iudge.</hi> 'Tis ſaid that a <hi>Iudge muſt not paſs ſentente either lying or running but ſitting,</hi> (i. e.) with a <hi>patient ſpeed</hi> and a <hi>ſpeedy patience.</hi> Thus he abhorred <hi>delayes</hi> in judicature, as that which turned <hi>judgement</hi> into <hi>vineger: raſhneſs</hi> as that which turned it to <hi>wormewood;</hi> both to be ſhunned by a <hi>due fermentation</hi> (as the Jews ſpeak,) by obſerving <hi>due ſeaſons</hi> for acting.</p>
+               <p>
+                  <hi>As a Chriſtian,</hi> he incorporated the dayly Acts <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>17</label> of Religion in proper ſeaſons, that ſoe the du<g ref="char:EOLhyphen"/>ty might revolve with the times revolution. Theſe were to him as to Job, more then his <note place="margin">23. Job. 12</note>
+                  <pb n="33" facs="tcp:118989:20"/> 
+                  <hi>neceſsary food,</hi> as he had his <hi>eating</hi> and <hi>drink<g ref="char:EOLhyphen"/>ing,</hi> ſo his <hi>praying</hi> ſeaſons, and for the <hi>ſolemn ſeaſons</hi> of <hi>publique worſhip,</hi> none more <hi>obſerv<g ref="char:EOLhyphen"/>ant.</hi>
+               </p>
+               <p>At which <hi>ſeaſon</hi> God bearing him witneſs as <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>17</label> 
+                  <hi>Abel;</hi> whilſt he was ſerving God, God ſerved him, with a <hi>call</hi> to the <hi>
+                     <g ref="char:V">Ʋ</g>pper Bench. Servus ad legem fit judex,</hi> or a <hi>ſummons</hi> to the <hi>
+                     <g ref="char:V">Ʋ</g>pper-Houſe. Henoch</hi> the ſeventh from <hi>Adam,</hi> walk<g ref="char:EOLhyphen"/>ed <note place="margin">Gen. 5. 24.</note> with God, &amp; was tranſlated <hi>anno ſabbatico.</hi> Thus the Lord <hi>tranſlated this Henoch</hi> to com<g ref="char:EOLhyphen"/>pleat that <hi>ſabbath</hi> in <hi>Heaven</hi> which he began on <hi>Earth.</hi> And with the <hi>new year</hi> enters eter<g ref="char:EOLhyphen"/>nity in a <hi>new place, ſtate,</hi> and <hi>work,</hi> but in his <hi>old company</hi> the Lord God, who coming finds him, whom he finds welcoming him. God finds him <hi>doing here,</hi> he finds God <hi>bleſsing there.</hi> Where for the preſent we muſt leave him, and where 'tis his happyneſs for ever to be left, for</p>
+               <q>
+                  <hi>Bleſſed is that Servant whom his Lord when he cometh ſhall find ſo doing.</hi>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
